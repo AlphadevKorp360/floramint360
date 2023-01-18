@@ -1,4 +1,4 @@
-# floramint360 README
+# FloraMint360's codebase
 ## Color Theme for VS Code!
 * Not that Bad!
 * Better for Eyes!
