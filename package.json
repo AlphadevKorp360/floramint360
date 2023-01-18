@@ -1,0 +1,21 @@
+{
+  "name": "floramint360",
+  "displayName": "flora mint",
+  "description": "inspired by flora mint flower back in days",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flora Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flora Mint-color-theme.json"
+      }
+    ]
+  }
+}
